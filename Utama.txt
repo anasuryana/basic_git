@@ -1,2 +1,5 @@
 ini file pertama ku.
 ini dari dev
+
+
+fitur siap pakai
