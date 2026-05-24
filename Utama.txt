@@ -1,5 +1,5 @@
 ini file pertama ku.
-ini dari dev
+ini dari dev (gini harusnya)
 
 
 fitur siap pakai
